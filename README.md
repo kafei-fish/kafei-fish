@@ -1,3 +1,10 @@
+<img src="https://github-readme-stats.vercel.app/api?username=kafei-fish&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+ 
+### I'm polarisxu
+- ???? Peking university
+- ???? [www.lxiaol.xyz] 站长.
+<img src="https://github-profile-trophy.vercel.app/?username=kafei-fish&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 ### Hi there 👋
 
 <!--
